@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Zip.Activities.UiPath</id>
+    <version>$version$</version>
+    <title>Zip.Activities.UiPath</title>
+    <authors>Varun Raj</authors>
+    <owners>Varun Raj</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/skcript/UiPath.String.Extensions/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/skcript/UiPath.String.Extensions</projectUrl>
+    <description>Zip Activity for UiPath.</description>
+    <summary>With this custom activity for zip and unzip activities. This plugin comes with the following features. 
+
+    - Unzip to directory</summary>
+    <language>en-US</language>
+    <tags>UiPath Zip C#</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\UiPath.Activities.Zip.dll" target="lib\UiPath.Activities.Zip.dll" />
+  </files>
+</package>
