@@ -7,8 +7,8 @@
     <authors>Varun Raj</authors>
     <owners>Varun Raj</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <licenseUrl>https://github.com/skcript/UiPath.String.Extensions/blob/master/LICENSE.md</licenseUrl>
-    <projectUrl>https://github.com/skcript/UiPath.String.Extensions</projectUrl>
+    <licenseUrl>https://github.com/varun-raj/UiPath.Activities.Zip/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/varun-raj/UiPath.Activities.Zip</projectUrl>
     <description>Zip Activity for UiPath.</description>
     <summary>With this custom activity for zip and unzip activities. This plugin comes with the following features. 
 
